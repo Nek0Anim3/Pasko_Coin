@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "create-next-app": "^14.2.13"
+    "create-next-app": "^14.2.13",
+    "grammy": "^1.30.0"
   }
 }
